@@ -1,0 +1,13 @@
+.mainDiv{
+	border:5px black;
+	display: block;
+}
+.one{
+	height:100px;
+	width:100px;
+    border:2px solid black;
+    font-size:80px;
+    text-align:center;
+	background-color:cyan;
+	padding: 0;
+}
